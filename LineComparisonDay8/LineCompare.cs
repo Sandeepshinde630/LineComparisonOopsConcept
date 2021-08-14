@@ -20,5 +20,12 @@ namespace LineComparisonDay8
             double d = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
             return d;
         }
+        public static void Equal(double Line1, double Line2)
+        {
+            if (Line1.Equals(Line2))
+                Console.WriteLine("Lines are Equal");
+            else
+                Console.WriteLine("Lines Are Not Equal");
+        }
     }
 }
