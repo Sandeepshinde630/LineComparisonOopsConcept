@@ -15,6 +15,7 @@ namespace LineComparisonDay8
             double LineTwo = obj1.Length();
             Console.WriteLine("Length of Line2:" + LineTwo);
             LineCompare.Equal(LineOne, LineTwo);
+            LineCompare.CompareTo(LineOne, LineTwo);
         }
     }
 }

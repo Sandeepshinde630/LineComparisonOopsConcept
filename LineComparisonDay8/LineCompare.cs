@@ -27,5 +27,14 @@ namespace LineComparisonDay8
             else
                 Console.WriteLine("Lines Are Not Equal");
         }
+        public static void CompareTo(double Line1, double Line2)
+        {
+
+            if (Line1.CompareTo(Line2) > 0)
+                Console.WriteLine("Line1 is greater than Line2");
+            else
+                Console.WriteLine("Line1 is less than Line2");
+
+        }
     }
 }
