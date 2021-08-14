@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\bin\Debug\netcoreapp3.1\LineComparisonDay8.exe
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\bin\Debug\netcoreapp3.1\LineComparisonDay8.deps.json
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\bin\Debug\netcoreapp3.1\LineComparisonDay8.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\bin\Debug\netcoreapp3.1\LineComparisonDay8.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\bin\Debug\netcoreapp3.1\LineComparisonDay8.dll
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\bin\Debug\netcoreapp3.1\LineComparisonDay8.pdb
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.dll
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.pdb
+C:\Users\Sandeep\Desktop\CSharp\LineComparisonDay8\LineComparisonDay8\obj\Debug\netcoreapp3.1\LineComparisonDay8.genruntimeconfig.cache
